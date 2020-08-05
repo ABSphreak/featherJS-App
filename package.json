@@ -1,0 +1,22 @@
+{
+  "name": "featherjs-app",
+  "version": "1.0.0",
+  "description": "Feathers JS App",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ABSphreak/featherJS-App.git"
+  },
+  "author": "Abhinav Sharma",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ABSphreak/featherJS-App/issues"
+  },
+  "homepage": "https://github.com/ABSphreak/featherJS-App#readme",
+  "dependencies": {
+    "@feathersjs/feathers": "^4.5.7"
+  }
+}
