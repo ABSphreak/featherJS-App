@@ -1,2 +1,2 @@
 # featherJS-App
-:feather: Feathers JS App
+🍃 Feathers JS App
